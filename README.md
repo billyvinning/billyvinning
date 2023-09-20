@@ -1,10 +1,11 @@
 <!--
 **billyvinning/billyvinning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<h3> 
 <p align='center'>
   Data Scientist | PhD Physics
 </p>
-
+</h3>
 <p align="center">
   <a href="https://www.kaggle.com/bvinning">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"  />&nbsp;&nbsp;&nbsp;
