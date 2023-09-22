@@ -28,5 +28,6 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white"/>
+  <img src="https://img.shields.io/badge/Weights and Biases-%231b1c20.svg?style=flat-square&logo=weightsandbiases&logoColor=%FFBE00"/>
 </p>
 
